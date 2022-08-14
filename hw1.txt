@@ -1,0 +1,26 @@
+Stack
+3
+2
+1
+
+Queue
+1
+2
+3
+
+Map
+One
+Two
+Three
+1	One
+2	Two
+3	Three
+
+Unordered Map
+ITC	Computer Science
+INT	Business Informatics
+IRS	Robotics
+
+Business Informatics not found
+Computer Science found
+
